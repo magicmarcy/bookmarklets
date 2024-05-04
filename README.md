@@ -1,6 +1,6 @@
 # bookmarklets
 
-Hello, nice to see you here! Here you can find a selection of the most useful bookmarklets I use. I created them myself when I realized how they can simplify your daily life.
+Hello, nice to see you here! Here you can find a selection of the most useful bookmarklets I use. I created them by myself when I realized how they can simplify my daily life.
 
 You are free to use and/or modify these bookmarklets however you like. You are also welcome to contribute to improving or optimizing them.
 
