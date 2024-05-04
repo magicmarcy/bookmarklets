@@ -1,10 +1,10 @@
 # bookmarklets
 
-Hallo, schön dich hier zu sehen! Hier findest du eine Auswahl meiner nützlichsten Bookmarklet die ich nutze. Diese habe ich selbst erstellt als ich bemerkt habe, wie sie einem das tägliche Leben vereinfachen können.
+Hello, nice to see you here! Here you can find a selection of the most useful bookmarklets I use. I created them myself when I realized how they can simplify your daily life.
 
-Du kannst diese Bookmarklets völlig frei verwenden und/oder verändern wie es dir gefällt. Gern kannst du auch zur Verbesserung oder Optimierung dieser beitragen.
+You are free to use and/or modify these bookmarklets however you like. You are also welcome to contribute to improving or optimizing them.
 
-Bitte beachte, dass du nur den JavaScript Code ohne Kommentare aus den einzelnen Scripten kopieren musst.
+Please note that you only have to copy the JavaScript code without comments from the individual scripts.
 
 # Scripts
 ## _browser_info.js
